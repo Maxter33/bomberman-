@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1736304905 source:c:\raylib\bomberman\main.c
+	"config.h"
+
+1736041511 c:\raylib\bomberman\config.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<dirent.h>
+	"raylib.h"
+	"map.h"
+	"player.h"
+	"bombs.h"
+
+1736304993 c:\raylib\bomberman\map.h
+	"config.h"
+
+1736305784 source:c:\raylib\bomberman\map.c
+	"config.h"
+
+1736304765 c:\raylib\bomberman\player.h
+	"config.h"
+
+1736305828 source:c:\raylib\bomberman\player.c
+	"config.h"
+
+1735784714 c:\raylib\bomberman\bombs.h
+	"config.h"
+
+1736041295 source:c:\raylib\bomberman\bombs.c
+	"config.h"
+
+1736304943 source:c:\raylib\bomberman\enemy.c
+	"config.h"
+
